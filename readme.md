@@ -33,10 +33,6 @@ both private and commercial use (<http://creativecommons.org/licenses/by/2.0/>).
 Condition: For the free use of the YAML framework, a backlink to the YAML homepage (<http://www.yaml.de>) in a
 suitable place (e.g.: footer of the website or in the imprint) is required.
 
-In general it would be nice to get a short note when new YAML-based projects are released. If you are highly
-pleased with YAML, perhaps you would like to take a look at my Amazon wish list?
-<https://www.amazon.de/gp/registry/wishlist/108Q0YYJ49UC2/>
-
 ### YAML under Commercial Distribution License (YAML-CDL)
 
 If you are a commercial software developer and you want to release your software under a different license
