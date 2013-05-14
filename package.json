@@ -1,0 +1,36 @@
+{
+  "name": "generator-yaml4",
+  "version": "0.1.0",
+  "description": "Yeoman generator YAML4-Sass",
+  "keywords": [
+    "yeoman-generator",
+    "scaffold",
+    "yaml4",
+    "yaml",
+    "sass"
+  ],
+  "homepage": "https://github.com/bauschan/generator-yaml4",
+  "bugs": "https://github.com/bauschan/generator-yaml4.git/issues",
+  "author": "Peter Foerger",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bauschan/generator-yaml4.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.10.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ]
+}
