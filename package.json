@@ -1,11 +1,11 @@
 {
   "name": "generator-yaml4",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Yeoman generator YAML4-Sass",
   "keywords": [
     "yeoman-generator",
     "scaffold",
-    "yaml4",
+    "yaml4.1",
     "yaml",
     "sass"
   ],
